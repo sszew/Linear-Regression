@@ -4,6 +4,9 @@ In this study, I create an ordinary least-squares (OLS) linear regression model 
 
 I perform EDA on a selection of predictors, fit an initial model, and then use variable selection methods to pare down the model. I also evaluate OLS assumptions and check for influential points and outliers. Finally, I give some example predictions and examine predictor importances before presenting the final model summary.
 
+File:
+- https://github.com/sszew/Linear-Regression/blob/main/szewczyk_linear_regression_cancer_mortality.md
+  
 Technology:
 - R
 - Quarto/Markdown
