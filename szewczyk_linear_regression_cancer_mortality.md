@@ -1040,7 +1040,7 @@ qqline(model$residuals, col = 'red')
 
 ![](szewczyk_linear_regression_cancer_mortality_files/figure-commonmark/unnamed-chunk-35-1.png)
 
-![plot10](pictures/plot9.png)
+![plot10](pictures/plot10.png)
 
 ``` r
 # QQ-Plot of robust model
@@ -1050,7 +1050,7 @@ qqline(model_robust$residuals, col = 'red')
 
 ![](szewczyk_linear_regression_cancer_mortality_files/figure-commonmark/unnamed-chunk-36-1.png)
 
-![plot12](pictures/plot9.png)
+![plot12](pictures/plot12.png)
 
 The QQ-plot of the robust model is very similar to that of the original
 model. The robust regression model did not improve the Normal errors
