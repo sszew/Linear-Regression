@@ -939,7 +939,8 @@ sensitive to large sample sizes: since the sample size is in the
 denominator of the test statistic equations, large sample sizes can
 sometimes guarantee statistically significant results, regardless of the
 practical significance. In these cases, hypothesis tests are not very
-informative.
+informative. See Faber, J., & Fonseca, L. M. (2014) and Khalilzadeh, J. & Tasci,
+A. D. (2017) for further discussion of this issue.
 
 With a sample size of over 3000 observations, our dataset is relatively
 large. Therefore, we will not use the aforementioned hypothesis tests in
@@ -1360,8 +1361,14 @@ further.
 
 # References
 
+- Faber, J., & Fonseca, L. M. (2014). How sample size influences research outcomes. *Dental Press Journal of Orthodontics*, *19*(4), 27–29
+  <https://doi.org/10.1590/2176-9451.19.4.027-029.ebo>
+  
 - Faraway, J.J. (2014). Linear Models with R (2nd ed.). Chapman and
   Hall/CRC. <https://doi.org/10.1201/b17144>
+
+- Khalilzadeh, J. & Tasci, A. D. (2017). Large sample size, significance level, and the effect size: solutions to perils of using big data for
+  academic research. *Tourism Management,* *62,* 89–96. <https://doi.org/10.1016/j.tourman.2017.03.026>
 
 - Knief, U., & Forstmeier, W. (2021). Violating the normality assumption
   may be the lesser of two evils. *Behavior Research Methods,* *53*,
