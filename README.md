@@ -1,4 +1,4 @@
-# Linear Regression: Cancer Mortality Rates
+# Modeling U.S. County-level Cancer Mortality Rates: an Ordinary Least Squares (OLS) Linear Regression Model
 
 In this study, I create an ordinary least-squares (OLS) linear regression model for U.S. county-level cancer mortality rates based on county-level socioeconomic parameters.
 
